@@ -3,7 +3,7 @@
 
 Ищу роль **Junior System/Integration Analyst**. Показываю проекты с проверяемыми артефактами.
 
-**Контакты:** Telegram: [@zenalyse](https://t.me/zenalyse) · Email: e.v.d@internet.ru · Сетка: https://set.ki/hn5xccX
+**Контакты:** Telegram: [`@zenalyse`](https://t.me/zenalyse) · Email: `e.v.d@internet.ru` · Сетка: `https://set.ki/hn5xccX`
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## Резюме
-- HH: [ссылка](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)
+- HH: [`https://…`](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)
 
 ---
 
