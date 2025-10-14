@@ -9,7 +9,7 @@
 
 ## Проекты
 1. **Smart Home — MVP (диплом)**  
-   Репозиторий: [`project-01-smart-home`](https://github.com/goodwintt23-cpu/project-01-smart-home))  
+   Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
 2. **Project-02** — *зарезервировано*  
