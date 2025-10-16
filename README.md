@@ -15,13 +15,14 @@
 2. **Накарабине» — e-commerce (модель заказов/товаров)** — *зарезервировано*  
    Репозиторий: [`project-02-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-02-ecommerce-data-model) будет добавлен.
 
-3. **LUCKY — страхование (C4 + профиль API)** — *зарезервировано*  
-   Репозиторий: [`project-03-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-03-insurance-c4-api) будет добавлен.
-
-4. **«Вита» — web/mobile (назначения, результаты, расписание)** — *зарезервировано*  
+3. **LUCKY — страхование (C4 + профиль API)**
+   Репозиторий: [`project-03-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-03-insurance-c4-api)  
+   Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
+   
+5. **«Вита» — web/mobile (назначения, результаты, расписание)** — *зарезервировано*  
    Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app) будет добавлен.
 
-5. **Otium — интеграции и API (SOAP → Web Server, фильтр «exclusive»)** — *зарезервировано*  
+6. **Otium — интеграции и API (SOAP → Web Server, фильтр «exclusive»)** — *зарезервировано*  
    Репозиторий: [`project-05-content-integration`](https://github.com/goodwintt23-cpu/project-05-content-integration) будет добавлен.
 
 ---
