@@ -12,7 +12,7 @@
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
-2. **Накарабине» — e-commerce (модель заказов/товаров)** — *зарезервировано*  
+2. **«Накарабине» — e-commerce (модель заказов/товаров)** — *зарезервировано*  
    Репозиторий: [`project-02-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-02-ecommerce-data-model) будет добавлен.
 
 3. **LUCKY — страхование (C4 + профиль API)**  
