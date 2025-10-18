@@ -8,7 +8,7 @@
 ---
 
 ## Проекты
-1. **Stets Home — «умный дом»**  
+1. **Stets Home — «умный дом» (end-to-end: требования → прототип)**  
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
@@ -19,8 +19,9 @@
    Репозиторий: [`project-03-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-03-insurance-c4-api)  
    Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
    
-5. **«Вита» — web/mobile (назначения, результаты, расписание)** — *зарезервировано*  
-   Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app) будет добавлен.
+5. **«Вита» — web/mobile (назначения, результаты, расписание)**  
+   Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
+   Артефакты: USM/AC, DFD L0/L1, вайрфреймы/прототип; BPMN AS-IS/TO-BE, UML State Machine.
 
 6. **Otium — интеграции и API (SOAP→REST; фильтр «exclusive», сортировка по рейтингам)**   
    Репозиторий: [`project-05-content-integration`](https://github.com/goodwintt23-cpu/project-05-content-integration)  
