@@ -13,11 +13,11 @@
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
 2. **LUCKY — страхование (C4 + профиль API)**  
-   Репозиторий: [`project-03-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-03-insurance-c4-api)  
+   Репозиторий: [`project-02-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-02-insurance-c4-api)  
    Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
 
 3. **Otium — интеграции и API (SOAP→REST; фильтр «exclusive», сортировка по рейтингам)**   
-   Репозиторий: [`project-05-content-integration`](https://github.com/goodwintt23-cpu/project-05-content-integration)  
+   Репозиторий: [`project-03-content-integration`](https://github.com/goodwintt23-cpu/project-03-content-integration)  
    Артефакты: UML Sequence (до/после), постановка на изменения API/XSD для SOAP, постановка на изменения REST, Postman-коллекция для SOAP.
 
 4. **«Вита» — web/mobile (сквозная связка: USM→DFD→UI)**  
@@ -25,7 +25,7 @@
    Артефакты: USM/AC, DFD L0/L1, вайрфреймы/прототип; BPMN AS-IS/TO-BE, UML State Machine.   
 
 5. **«Накарабине» — e-commerce (консолидация в SRS)**    
-   Репозиторий: [`project-02-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-02-ecommerce-data-model)
+   Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)
    Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS (термины/справочники/правила целостности), трассировка UseCase→ERD.
 
 
