@@ -12,14 +12,15 @@
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
-2. **«Накарабине» — e-commerce (модель заказов/товаров)** — *зарезервировано*  
-   Репозиторий: [`project-02-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-02-ecommerce-data-model) будет добавлен.
+2. **«Накарабине» — e-commerce (консолидация в SRS)**    
+   Репозиторий: [`project-02-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-02-ecommerce-data-model)
+   Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS (термины/справочники/правила целостности), трассировка UseCase→ERD.
 
-3. **LUCKY — страхование (C4 + профиль API)**  
+4. **LUCKY — страхование (C4 + профиль API)**  
    Репозиторий: [`project-03-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-03-insurance-c4-api)  
    Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
    
-5. **«Вита» — web/mobile (назначения, результаты, расписание)**  
+5. **«Вита» — web/mobile (сквозная связка: USM→DFD→UI)**  
    Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
    Артефакты: USM/AC, DFD L0/L1, вайрфреймы/прототип; BPMN AS-IS/TO-BE, UML State Machine.
 
