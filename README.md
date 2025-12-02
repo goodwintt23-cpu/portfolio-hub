@@ -8,27 +8,25 @@
 ---
 
 ## Проекты
-1. **Stets Home — «умный дом» (end-to-end: требования → прототип)**  
+1. **PropTech · IoT / умный дом: MVP и прототип**  
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
    Артефакты: USM, DFD L0/L1, ERD 3NF, Data Dictionary, ПМИ, прототип.
 
-2. **LUCKY — страхование (C4 + профиль API)**  
+2. **InsurTech / страхование: C4 и REST API**   
    Репозиторий: [`project-02-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-02-insurance-c4-api)  
    Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
 
-3. **Otium — интеграции и API (SOAP→REST; фильтр «exclusive», сортировка по рейтингам)**   
+3. **Media / стриминг-каталог: интеграции SOAP → REST**   
    Репозиторий: [`project-03-content-integration`](https://github.com/goodwintt23-cpu/project-03-content-integration)  
-   Артефакты: UML Sequence (до/после), постановка на изменения API/XSD для SOAP, постановка на изменения REST, Postman-коллекция для SOAP.
+   Артефакты: UML Sequence (до/после), тикет API/XSD для SOAP, тикет REST, Postman-коллекция для SOAP.
 
-4. **«Вита» — web/mobile (сквозная связка: USM→DFD→UI)**  
+4. **MedTech / клиника: процессы и UI**  
    Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
    Артефакты: USM/AC, DFD L0/L1, вайрфреймы/прототип; BPMN AS-IS/TO-BE, UML State Machine.   
 
-5. **«Накарабине» — e-commerce (консолидация в SRS)**    
+5. **E-commerce / интернет-магазин: данные и SRS**    
    Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)
-   Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS (термины/справочники/правила целостности), трассировка UseCase→ERD.
-
-
+   Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS, трассировка UseCase → ERD.
 
    
 ---
