@@ -1,7 +1,7 @@
 
 # Портфолио — Евгений Дзюбенко
 
-Ищу роль **[`Системного аналитика`](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)**. Показываю проекты с проверяемыми артефактами.
+Ищу роль [**`Системного аналитика`**](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833). Показываю проекты с проверяемыми артефактами.
 
 Telegram: [`@zenalyse`](https://t.me/zenalyse) · Email: [`e.v.d@internet.ru`](e.v.d@internet.ru) · Сетка: [`https://set.ki/nsEagMN`](https://set.ki/nsEagMN)
 
