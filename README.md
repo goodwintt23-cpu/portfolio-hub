@@ -28,4 +28,3 @@
 5. **E-commerce / интернет-магазин: данные и SRS**    
    Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)  
    Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS, трассировка UseCase → ERD.
-   
