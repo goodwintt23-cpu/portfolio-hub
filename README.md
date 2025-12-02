@@ -1,7 +1,7 @@
 
 # Портфолио — Евгений Дзюбенко
 
-Ищу роль **Junior System/Integration Analyst**. Показываю проекты с проверяемыми артефактами.
+Ищу роль **`Системного аналитика`**. Показываю проекты с проверяемыми артефактами.
 
 **Контакты:** Telegram: [`@zenalyse`](https://t.me/zenalyse) · Email: [`e.v.d@internet.ru`](e.v.d@internet.ru) · Сетка: [`https://set.ki/nsEagMN`](https://set.ki/nsEagMN)
 
