@@ -7,6 +7,11 @@
 
 ---
 
+## Резюме
+- HH: [`https://…`](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)
+
+---
+
 ## Проекты
 1. **PropTech · IoT / умный дом: MVP и прототип**  
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
@@ -27,14 +32,8 @@
 5. **E-commerce / интернет-магазин: данные и SRS**    
    Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)
    Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS, трассировка UseCase → ERD.
-
    
 ---
 
-## Резюме
-- HH: [`https://…`](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)
 
----
 
-## Примечание
-Все ссылки публичные и открываются без авторизации (кроме Postman).
