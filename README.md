@@ -5,12 +5,8 @@
 
 **Контакты:** Telegram: [`@zenalyse`](https://t.me/zenalyse) · Email: [`e.v.d@internet.ru`](e.v.d@internet.ru) · Сетка: [`https://set.ki/nsEagMN`](https://set.ki/nsEagMN)
 
----
-
 ## Резюме
 - HH: [`https://…`](https://sochi.hh.ru/resume/714ce18eff0f84879d0039ed1f4c4948364833)
-
----
 
 ## Проекты
 1. **PropTech · IoT / умный дом: MVP и прототип**  
@@ -33,7 +29,3 @@
    Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)
    Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS, трассировка UseCase → ERD.
    
----
-
-
-
