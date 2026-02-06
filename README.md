@@ -10,7 +10,7 @@ Telegram: [`@zenalyse`](https://t.me/zenalyse) · Email: [`e.v.d@internet.ru`](e
 
 ## Проекты
 1. MediaTech City Platform - City Guide & Events (ветка Telegram-бот)  
-   Репозиторий: `project-xx-city-guide-tg-bot`  
+   Репозиторий: [`project-06-city-guide-tg-bot`](https://github.com/goodwintt23-cpu/project-06-city-guide-tg-bot)    
    Артефакты: ERD 3НФ (единая БД), DBML, Data Dictionary, DFD L0/L1, UML Sequence, пакет API-документации (webhook + Bot API + errors/retries).  
    Основание: пакет системного анализа, подготовленный для передачи в разработку.
 
