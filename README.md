@@ -52,13 +52,13 @@ Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@ma
    - **PM-фокус:** зафиксировать точки взаимодействия, изменения в интеграционном контуре и материалы для передачи задачи техническим участникам.
 
 6. **MedTech / клиника: процессы, требования и UI-прототип**  
-   - **Репозиторий:** [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
+   - **Репозиторий:** [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app).   
    - **Суть:** описание пользовательских сценариев, процессов и интерфейсной логики для медицинского приложения.
    - **Артефакты:** USM, Acceptance Criteria, DFD L0/L1, BPMN AS-IS / TO-BE, UML State Machine, вайрфреймы / прототип.
    - **PM-фокус:** связать пользовательские задачи, процессы, состояния и интерфейсные решения в понятный пакет проектных материалов.  
 
 8. **E-commerce / интернет-магазин: данные, SRS и трассировка требований**    
-   - **Репозиторий:** [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)  
+   - **Репозиторий:** [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model).  
    - **Суть:** структурирование требований и данных для e-commerce-сценариев.
    - **Артефакты:** ERD 3НФ, Data Dictionary, обновленный SRS, трассировка Use Case → ERD.
    - **PM-фокус:** показать связность требований, данных и проектной документации, чтобы снизить риск потери логики при передаче в реализацию.
