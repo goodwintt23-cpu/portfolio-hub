@@ -7,7 +7,7 @@ PM / координатор реализации для технических, 
 
 **Фокус портфолио:** требования · процессы · данные · сценарии · документация · согласование решений · передача задач в дизайн / разработку / реализацию.
 
-Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@mail.ru`](evgen_2000@mail.ru)
+Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@mail.ru`](mailto:evgen_2000@mail.ru)
 
 ## Что подтверждает портфолио
 
