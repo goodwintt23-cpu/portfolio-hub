@@ -27,30 +27,38 @@ Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@ma
    - **Покрытие:** регистрация → подтверждение email по коду → повторная отправка кода.
    - **PM-фокус:** фиксация договоренностей по поведению сервиса, payload, статус-кодам, ошибкам и диагностике, чтобы снизить риск разных трактовок между участниками.
 
-3. **MediaTech City Platform - City Guide & Events (Ветка Telegram-бота на общей модели данных)**  
+2. **MediaTech City Platform - City Guide & Events: ветка Telegram-бота на общей модели данных**  
    - **Репозиторий:** [`project-06-city-guide-tg-bot`](https://github.com/goodwintt23-cpu/project-06-city-guide-tg-bot).
    - **Суть:** пакет материалов для ветки Telegram-бота: требования, данные, процессы, сценарии, интеграционные правила.
    - **Артефакты:** ERD 3НФ, DBML, Data Dictionary, DFD L0/L1, UML Sequence, API-документация по webhook / Bot API / errors / retries.
    - **PM-фокус:** связать требования, данные, процессы и интеграционный контур в единую логику, достаточную для передачи в разработку без повторного пересбора вводных.
 
-4. **PropTech · IoT / Smart Home: MVP, требования, процессы, данные и прототип**  
-   - **Репозиторий:** [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
+3. **PropTech · IoT / Smart Home: MVP, требования, процессы, данные и прототип**  
+   - **Репозиторий:** [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis).  
    - **Суть:** end-to-end пакет проектных материалов для MVP приложения умного дома.
    - **Артефакты:** User Story Map, User Stories, DFD L0/L1, ERD 3NF, Data Dictionary, критерии приемки, ПМИ, прототип.
    - **PM-фокус:** зафиксировать границы MVP / Backlog, связать требования, процессы, данные и сценарии, подготовить проверяемые материалы для дальнейшей реализации.
 
-6. **InsurTech / страхование: C4 и REST API**   
-   Репозиторий: [`project-02-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-02-insurance-c4-api)  
-   Артефакты: C4 (контейнерная, до/после), моделирование профиля API (дизайн), OpenAPI/Swagger (YAML) — операция «получить страховки».
+4. **InsurTech / страхование: C4 и REST API для операции получения страховок**   
+   - **Репозиторий:** [`project-02-insurance-c4-api`](https://github.com/goodwintt23-cpu/project-02-insurance-c4-api).
+   - **Суть:** описание архитектурного и API-контура для страхового сценария.
+   - **Артефакты:** C4 container diagram, модель API, OpenAPI / Swagger YAML.
+   - **PM-фокус:** показать, как бизнес-сценарий переводится в границы систем, ответственность сервисов и проверяемый API-контракт.
 
-7. **Media / стриминг-каталог: интеграции SOAP → REST**   
-   Репозиторий: [`project-03-content-integration`](https://github.com/goodwintt23-cpu/project-03-content-integration)  
-   Артефакты: UML Sequence (до/после), тикет API/XSD для SOAP, тикет REST, Postman-коллекция для SOAP.
+5. **Media / Streaming Catalog: интеграции SOAP → REST**   
+   - **Репозиторий:** [`project-03-content-integration`](https://github.com/goodwintt23-cpu/project-03-content-integration).
+   - **Суть:** разбор интеграционного сценария и перехода от SOAP-взаимодействия к REST-подходу.
+   - **Артефакты:** UML Sequence, тикет API/XSD для SOAP, тикет REST, Postman-коллекция.
+   - **PM-фокус:** зафиксировать точки взаимодействия, изменения в интеграционном контуре и материалы для передачи задачи техническим участникам.
 
-8. **MedTech / клиника: процессы и UI**  
-   Репозиторий: [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
-   Артефакты: USM/AC, DFD L0/L1, вайрфреймы/прототип; BPMN AS-IS/TO-BE, UML State Machine.   
+6. **MedTech / клиника: процессы, требования и UI-прототип**  
+   - **Репозиторий:** [`project-04-healthcare-app`](https://github.com/goodwintt23-cpu/project-04-healthcare-app)   
+   - **Суть:** описание пользовательских сценариев, процессов и интерфейсной логики для медицинского приложения.
+   - **Артефакты:** USM, Acceptance Criteria, DFD L0/L1, BPMN AS-IS / TO-BE, UML State Machine, вайрфреймы / прототип.
+   - **PM-фокус:** связать пользовательские задачи, процессы, состояния и интерфейсные решения в понятный пакет проектных материалов.  
 
-9. **E-commerce / интернет-магазин: данные и SRS**    
-   Репозиторий: [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)  
-   Артефакты: ERD 3НФ, Data Dictionary, обновлённый SRS, трассировка UseCase → ERD.
+8. **E-commerce / интернет-магазин: данные, SRS и трассировка требований**    
+   - **Репозиторий:** [`project-05-ecommerce-data-model`](https://github.com/goodwintt23-cpu/project-05-ecommerce-data-model)  
+   - **Суть:** структурирование требований и данных для e-commerce-сценариев.
+   - **Артефакты:** ERD 3НФ, Data Dictionary, обновленный SRS, трассировка Use Case → ERD.
+   - **PM-фокус:** показать связность требований, данных и проектной документации, чтобы снизить риск потери логики при передаче в реализацию.
