@@ -21,16 +21,17 @@ Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@ma
 ## Проекты
 
 1. **PropTech Platform - Construction Deals & Requests: Auth-service (Registration) - REST API контракт и стандарт ошибок**  
-   - **Репозиторий:** [`project-07-auth-service-rest-api`](https://github.com/goodwintt23-cpu/project-07-auth-service-rest-api)
+   - **Репозиторий:** [`project-07-auth-service-rest-api`](https://github.com/goodwintt23-cpu/project-07-auth-service-rest-api).
    - **Суть:** пакет проектной API-документации для согласования поведения auth-service между участниками реализации.
    - **Артефакты:** OpenAPI Contract, Endpoints, Errors and Response Codes.
    - **Покрытие:** регистрация → подтверждение email по коду → повторная отправка кода.
    - **PM-фокус:** фиксация договоренностей по поведению сервиса, payload, статус-кодам, ошибкам и диагностике, чтобы снизить риск разных трактовок между участниками.
 
 3. **MediaTech City Platform - City Guide & Events (ветка Telegram-бот)**  
-   Репозиторий: [`project-06-city-guide-tg-bot`](https://github.com/goodwintt23-cpu/project-06-city-guide-tg-bot)    
-   Артефакты: ERD 3НФ (единая БД), DBML, Data Dictionary, DFD L0/L1, UML Sequence, пакет API-документации (webhook + Bot API + errors/retries).  
-   Основание: пакет системного анализа, подготовленный для передачи в разработку.
+   - **Репозиторий:** [`project-06-city-guide-tg-bot`](https://github.com/goodwintt23-cpu/project-06-city-guide-tg-bot).
+   - **Суть:** пакет материалов для ветки Telegram-бота: требования, данные, процессы, сценарии, интеграционные правила.
+   - **Артефакты:** ERD 3НФ, DBML, Data Dictionary, DFD L0/L1, UML Sequence, API-документация по webhook / Bot API / errors / retries.
+   - **PM-фокус:** связать требования, данные, процессы и интеграционный контур в единую логику, достаточную для передачи в разработку без повторного пересбора вводных.
 
 4. **PropTech · IoT / умный дом: MVP и прототип**  
    Репозиторий: [`project-01-smart-home-analysis`](https://github.com/goodwintt23-cpu/project-01-smart-home-analysis)  
