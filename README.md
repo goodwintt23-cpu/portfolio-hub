@@ -21,10 +21,11 @@ Telegram: [`@evgenii_sync`](https://t.me/evgenii_sync) · Email: [`evgen_2000@ma
 ## Проекты
 
 1. **PropTech Platform - Construction Deals & Requests: Auth-service (Registration) - REST API контракт и стандарт ошибок**  
-   Репозиторий: [`project-07-auth-service-rest-api`](https://github.com/goodwintt23-cpu/project-07-auth-service-rest-api)  
-   Артефакты: OpenAPI Contract, Endpoints, Errors and Response Codes.  
-   Покрытие: регистрация -> подтверждение email по коду -> повторная отправка кода.  
-   Фокус: договоренности FE-BE по payload, статус-кодам и единому формату ошибок ErrorResponse (включая trace_id/date).
+   - **Репозиторий:** [`project-07-auth-service-rest-api`](https://github.com/goodwintt23-cpu/project-07-auth-service-rest-api)
+   - **Суть:** пакет проектной API-документации для согласования поведения auth-service между участниками реализации.
+   - **Артефакты:** OpenAPI Contract, Endpoints, Errors and Response Codes.
+   - **Покрытие:** регистрация → подтверждение email по коду → повторная отправка кода.
+   - **PM-фокус:** фиксация договоренностей по поведению сервиса, payload, статус-кодам, ошибкам и диагностике, чтобы снизить риск разных трактовок между участниками.
 
 3. **MediaTech City Platform - City Guide & Events (ветка Telegram-бот)**  
    Репозиторий: [`project-06-city-guide-tg-bot`](https://github.com/goodwintt23-cpu/project-06-city-guide-tg-bot)    
